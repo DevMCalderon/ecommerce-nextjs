@@ -5,7 +5,7 @@ export const metadata = {
 };
 
 const Homepage = () => {
-  return <Button>Button</Button>;
+  return <></>;
 };
 
 export default Homepage;
