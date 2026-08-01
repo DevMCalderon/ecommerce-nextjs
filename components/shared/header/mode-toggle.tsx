@@ -39,6 +39,7 @@ const ModeToggle = () => {
           ) : (
             <SunIcon />
           )}
+          Theme
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent>
